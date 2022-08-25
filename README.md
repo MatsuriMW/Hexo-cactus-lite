@@ -11,8 +11,13 @@ a modified blog theme based on Hexo-theme-cactus-light
 3. 删除了页脚右侧的 footer, 更简洁
 4. 修改了文章中引用 quote 与二级标题 header 的装饰风格
 
+## 使用说明
+详见 [hexo-theme-cactus/README.md at master · probberechts/hexo-theme-cactus](https://github.com/probberechts/hexo-theme-cactus/blob/master/README.md),怎么用他的就怎么用我的
+
 ## 🚧TODO
 
 1. 更换一个对路人更友好的评论系统，更换中文字体
-2. 搜索页面的文档数字统计是手动修改语言包 zh-CN.yml 文件做到的，添加一个文档统计
+2. 搜索页面太空旷，文档数字统计是手动修改语言包 zh-CN.yml 文件做到的，添加一个文档统计
 3. 小节标题目前不显示超链接，修改
+4. 添加超链接被点击过后的展示效果
+5. 分类页面过于空旷，添加适当修饰
