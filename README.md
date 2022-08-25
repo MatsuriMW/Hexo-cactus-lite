@@ -11,7 +11,7 @@ a modified blog theme based on Hexo-theme-cactus-light
 3. 删除了页脚右侧的 footer, 更简洁
 4. 修改了文章中引用 quote 与二级标题 header 的装饰风格
 
-## TODO
+## 🚧TODO
 
 1. 更换一个对路人更友好的评论系统，更换中文字体
 2. 搜索页面的文档数字统计是手动修改语言包 zh-CN.yml 文件做到的，添加一个文档统计
