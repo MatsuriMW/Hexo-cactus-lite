@@ -16,12 +16,12 @@ a modified blog theme based on Hexo-theme-cactus-light
 
 ## 🚧 TODO
 
-1. 更换一个对路人更友好的评论系统，更换中文字体
-2. 搜索页面太空旷，文档数字统计是手动修改语言包 zh-CN.yml 文件做到的，添加一个文档统计
-3. 小节标题目前不显示超链接，修改
+1. 更换一个对路人更友好的评论系统，更换中、英文字体
+2. 搜索页面太空旷，添加动态文档统计
+3. 小节标题目前不显示超链接
 4. 添加超链接被点击过后的展示效果
-5. 分类页面过于空旷，添加适当修饰
 6. 为网站添加用户友好的深色模式并添加切换选项
+7. 增加图片点击后放大的效果
 
 [1]:	https://github.com/probberechts/hexo-theme-cactus
 [2]:	https://matsuri.site/
